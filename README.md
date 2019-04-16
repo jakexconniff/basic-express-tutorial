@@ -14,3 +14,7 @@ After Git Cloning or just copy and pasting these files into a directory...
 (Just make sure the installer mentions "Adding Node.js to your environment variable/path").</p>
 
 <p>Once Node.js is installed, you can node filename.js any javascript file and Node will attempt to run that file. Navigate command line to your project directory and node server.js</p>
+
+<p>To view the website, navigate to browser and visit localhost:8080</p>
+
+<p>Any time you change the code, you will need to Ctrl+C on the terminal and restart the application, then refresh the page to see them take effect.</p>
